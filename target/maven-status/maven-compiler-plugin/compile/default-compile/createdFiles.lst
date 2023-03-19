@@ -1,0 +1,9 @@
+com\ejercicio\myjsonserver\service\impl\obtenerObjetoImpl.class
+com\ejercicio\myjsonserver\service\obtenerObjetoService.class
+com\ejercicio\myjsonserver\utils\SwaggerConfig.class
+com\ejercicio\myjsonserver\entity\response.class
+com\ejercicio\myjsonserver\MyJsonServerApplication.class
+com\ejercicio\myjsonserver\controller\obtenerObjeto.class
+com\ejercicio\myjsonserver\entity\objeto.class
+com\ejercicio\myjsonserver\controller\exportarObjeto.class
+com\ejercicio\myjsonserver\ServletInitializer.class
